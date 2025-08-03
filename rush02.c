@@ -6,7 +6,7 @@
 /*   By: glopes-a <glopes-a@student.42.rio>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/02 17:38:01 by glopes-a          #+#    #+#             */
-/*   Updated: 2025/08/03 09:18:53 by glopes-a         ###   ########.fr       */
+/*   Updated: 2025/08/03 09:33:35 by glopes-a         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@ void	rush(int x, int y)
 	int	countx;
 	int	county;
 
-    countx = 0;
+	countx = 0;
 	county = 0;
 	while (county < y)
 	{
